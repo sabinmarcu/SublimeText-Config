@@ -1,0 +1,3 @@
+[submodule "Packages/TextMate-Themes"]
+	path = Packages/TextMate-Themes
+	url = http://github.com/filmgirl/TextMate-Themes.git

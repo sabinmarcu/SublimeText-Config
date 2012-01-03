@@ -1,0 +1,362 @@
+{
+	"folder_history":
+	[
+		"/C/Users/sabinm/Desktop/Design",
+		"/C/Users/sabinm/Desktop/New folder"
+	],
+	"last_window_id": 3,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 286.0,
+				"selected_items":
+				[
+					[
+						"Package",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 403.0
+			},
+			"console":
+			{
+				"height": 129.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/sabinm/Desktop/New folder/index.html"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 29.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"index",
+						"index.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "<!DOCTYPE HTML>\n<html lang=\"en-US\">\n<head>\n	<meta charset=\"UTF-8\">\n	<title>Design Testing</title>\n	<link rel=\"stylesheet\" type=\"text/css\" href=\"css/screen.css\" media=\"all\">\n	\n</head>\n<body>\n	<header>\n		<nav id=\"headerBottomLeft\"></nav>\n		<nav id=\"headerBottomRight\"></nav>\n		<nav id=\"headerOptions\"></nav>\n		<section id=\"appData\">\n			<h1></h1>\n			<h3></h3>\n		</section>\n		<section id=\"userInfo\">\n			<div class=\"avatar\">\n				<div><img src=\"\" alt=\"\"></div>\n			</div>\n			<span id=\"username\"></span>\n			<span id=\"organization\"></span>\n			<span id=\"context\"></span>\n		</section>\n	</header>\n	<section></section>\n	<aside>\n		<section class=\"toggle\"></section>\n		<section class=\"content\">\n			<li></li>\n			<li></li>\n			<li></li>\n			<li></li>\n		</section>\n	</aside>\n	<footer>\n		<section class=\"toggle\"></section>\n		<section class=\"content\">\n			<article>\n				<p><span class=\"dropcap\"></span></p>\n			</article>\n			<article>\n				<p><span class=\"dropcap\"></span></p>\n			</article>\n			<article>\n				<p><span class=\"dropcap\"></span></p>\n			</article>\n			<article>\n				<p><span class=\"dropcap\"></span></p>\n			</article>\n		</section>\n	</footer>\n	</body>\n</html>",
+					"file": "/C/Users/sabinm/Desktop/Design/index.html",
+					"file_size": 1117,
+					"file_write_time": 129700510101913578,
+					"settings":
+					{
+						"buffer_size": 1142,
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 343.0,
+				"selected_items":
+				[
+					[
+						"packa",
+						"Package Control: List Packages"
+					],
+					[
+						"PAckag",
+						"Package Control: List Packages"
+					],
+					[
+						"Package",
+						"Package Control: Install Package"
+					],
+					[
+						"Pac",
+						"Package Control: List Packages"
+					],
+					[
+						"Package Control: ",
+						"Package Control: Install Package"
+					]
+				],
+				"width": 490.0
+			},
+			"console":
+			{
+				"height": 129.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/sabinm/AppData/Roaming/Sublime Text 2/.gitignore.txt",
+				"/C/Users/sabinm/AppData/Roaming/Sublime Text 2/Packages/User/Global.sublime-settings",
+				"/C/Users/sabinm/AppData/Roaming/Sublime Text 2/Packages/SublimeCodeIntel/README.markdown",
+				"/C/Users/sabinm/AppData/Roaming/Sublime Text 2/Packages/Theme - Soda/README.md",
+				"/C/Users/sabinm/Desktop/New folder/index.html"
+			],
+			"find":
+			{
+				"height": 0.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/C/Users/sabinm/Desktop/Design"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/C/Users/sabinm/Desktop/Design/index.html",
+							"settings":
+							{
+								"buffer_size": 1142,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										174,
+										174
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/HTML/HTML.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 29.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"position": "0,0,1,-1,-1,-1,-1,690,680,152,1336",
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+					[
+						"index",
+						"index.html"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": false,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"window_id": 3,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
